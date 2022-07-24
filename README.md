@@ -1,11 +1,5 @@
-<html lang="en-US">
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>NGOC (JANE) DINH’S PORTFOLIO | Ngoc (Jane) Dinh’s Website</title>
+<title>THY BUI'S PORTFOLIO | DATA ANALYST</title>
 <meta name="generator" content="Jekyll v3.8.5" />
 <meta property="og:title" content="NGOC (JANE) DINH’S PORTFOLIO" />
 <meta property="og:locale" content="en_US" />
