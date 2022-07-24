@@ -1,13 +1,13 @@
 
 <title>THY BUI'S PORTFOLIO | DATA ANALYST</title>
 <meta name="generator" content="Jekyll v3.8.5" />
-<meta property="og:title" content="NGOC (JANE) DINH’S PORTFOLIO" />
+<meta property="og:title" content="THY BUI'S PORTFOLIO | DATA ANALYST" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="New York, NY Fordham University, MSBA, Class of 2020 RPubs LinkedIn Resume Github Email: ngocdinh1410@gmail.com School email: bdinh@fordham.edu" />
 <meta property="og:description" content="New York, NY Fordham University, MSBA, Class of 2020 RPubs LinkedIn Resume Github Email: ngocdinh1410@gmail.com School email: bdinh@fordham.edu" />
-<link rel="canonical" href="https://ngocdinh1410.github.io/" />
-<meta property="og:url" content="https://ngocdinh1410.github.io/" />
-<meta property="og:site_name" content="Ngoc (Jane) Dinh’s Website" />
+<link rel="canonical" href="https://thyanhbui1412.github.io/" />
+<meta property="og:url" content="https://thyanhbui1412.github.io/" />
+<meta property="og:site_name" content="THY BUI'S PORTFOLIO | DATA ANALYST" />
 <script type="application/ld+json">
 {"@type":"WebSite","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://i.imgur.com/2XburdGs.jpg"}},"url":"https://ngocdinh1410.github.io/","name":"Ngoc (Jane) Dinh’s Website","headline":"NGOC (JANE) DINH’S PORTFOLIO","description":"New York, NY Fordham University, MSBA, Class of 2020 RPubs LinkedIn Resume Github Email: ngocdinh1410@gmail.com School email: bdinh@fordham.edu","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
