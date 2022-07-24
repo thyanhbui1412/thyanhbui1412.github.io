@@ -1,13 +1,4 @@
 
-      <h2 id="ngoc-jane-dinhs-portfolio">NGOC (JANE) DINH’S PORTFOLIO</h2>
-<hr />
-
-<p>I am currently a Masters in Business Analytics Student at Fordham University. If you’re visiting this page you’re welcome to look at my work!</p>
-
-<hr />
-<h2 id="about-me">ABOUT ME</h2>
-<hr />
-
 <p><em>Hi,</em></p>
 
 <p><em>I am a student interested in Business Analytics. I came from a Finance job where I worked with various outdated databases that stored a lot of valuable data. I was frustrated with how little there has been done to extract the most out of customer data, but at the same time I was not technical enough to work on any higher-level analytics project. I made the transition to Business Analytics through enrolling at Fordham University. While I’ve only been studying for a year in Analytics, through my challenging learning curve I have explored many areas of analytics. I created this page to introduce some of the works that I’m proud of in the past two semesters. I had a tough learning curve as I did not know much in R or Python.  By the end of the first semester, I was entrusted by three professors/ faculty to work with them on important research in data visualization and web analytics.</em>
@@ -143,9 +134,6 @@ that relevant tweets carried higher negative sentiment. Analysis processsed thro
 <h2 id="other-projects">OTHER PROJECTS</h2>
 <hr />
 
-<p><a href="https://github.com/ngocdinh1410/Health-Awareness-SPSS-Modeler-Project">Health Awareness SPSS Modeler Project</a>: Analyzing CDC data on behavioral risk with SPSS Modeler with clustering, neural networks and naive bayes.</p>
-
-<p><a href="https://github.com/ngocdinh1410/IBM-Capstone-Project">IBM Capstone Project - NYC Neighborhood Clustering</a>: I attempted to cluster NYC neighborhood according to crime stats for my last IBM Data Science Project.</p>
 
 <p><em>-more to be added-</em></p>
 
