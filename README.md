@@ -1,41 +1,4 @@
 
-<title>THY BUI'S PORTFOLIO | DATA ANALYST</title>
-<meta name="generator" content="Jekyll v3.8.5" />
-<meta property="og:title" content="THY BUI'S PORTFOLIO | DATA ANALYST" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="New York, NY Fordham University, MSBA, Class of 2020 RPubs LinkedIn Resume Github Email: ngocdinh1410@gmail.com School email: bdinh@fordham.edu" />
-<meta property="og:description" content="New York, NY Fordham University, MSBA, Class of 2020 RPubs LinkedIn Resume Github Email: ngocdinh1410@gmail.com School email: bdinh@fordham.edu" />
-<link rel="canonical" href="https://thyanhbui1412.github.io/" />
-<meta property="og:url" content="https://thyanhbui1412.github.io/" />
-<meta property="og:site_name" content="THY BUI'S PORTFOLIO | DATA ANALYST" />
-<script type="application/ld+json">
-{"@type":"WebSite","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://i.imgur.com/2XburdGs.jpg"}},"url":"https://ngocdinh1410.github.io/","name":"Ngoc (Jane) Dinh’s Website","headline":"NGOC (JANE) DINH’S PORTFOLIO","description":"New York, NY Fordham University, MSBA, Class of 2020 RPubs LinkedIn Resume Github Email: ngocdinh1410@gmail.com School email: bdinh@fordham.edu","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
-
-    <link rel="stylesheet" href="/assets/css/style.css?v=fb6d6ad688aad2dbfc1b71f04e0d9860696b6484">
-    <!--[if lt IE 9]>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
-  </head>
-  <body>
-    <div class="wrapper">
-      <header>
-        <h1><a href="https://ngocdinh1410.github.io/">Ngoc (Jane) Dinh's Website</a></h1>
-        
-        
-          <img src="https://i.imgur.com/2XburdGs.jpg" alt="Logo" />
-        
-
-        <p>New York, NY <br><br> Fordham University, MSBA, Class of 2020 <br><br> <a href="https://rpubs.com/ngocdinh1410">RPubs</a> <br><br> <a href="https://www.linkedin.com/in/ngoc-dinh-a7a2a561/">LinkedIn</a> <br><br> <a href="https://drive.google.com/file/d/1BlGbtP68rb3G8hwsVP8xqbZpExtc6DWQ/view?usp=sharing">Resume</a> <br><br> <a href="https://github.com/ngocdinh1410/">Github</a> <br><br> Email: ngocdinh1410@gmail.com <br><br> School email: bdinh@fordham.edu
-</p>
-
-        
-
-        
-        
-      </header>
-      <section>
-
       <h2 id="ngoc-jane-dinhs-portfolio">NGOC (JANE) DINH’S PORTFOLIO</h2>
 <hr />
 
