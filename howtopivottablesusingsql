@@ -1,0 +1,29 @@
+---
+title: "How can I pivot a table using SQL using sum(CASE WHEN)"
+date: 2022-09-04
+---
+I am going to share with you a simple syntax that does the same job as pivoting the table. As I was building a report that requires me to slice down a table horizontally, I was a bit struggled to find out a way to do it with SQL. Not quite happy with all the quick searching results online, I then quickly learned some intermediate SQL courses on Datacamp. CASE WHEN in an aggregate function is such a powerful command.
+Context: I have two joined tables that have column: SKU code, Model, Color Code, Qty(, Store. As you can see, this table shows individual items, the SKU code is repeated as many times as the total quantity of stores.  
+ 
+Now, I want to manipulate the table that shows the SKU code, quantity for each store, columns for each stores. In order words, I want to aggregate individual items into multiple discrete categories. To this specific example, I want to sum aggregate total quantity of each SKUs into each store. This means I need SQL to calculate the quantity of each stores for each sku, then SELECT to each store. My logic is: if the store is 0, then calculate the sum of those stores. I came up with the code:
+sum(CASE WHEN store_no=0 then r1.qty END) as NYW_Inventory,
+sum(CASE WHEN store_no in(3,15,21,29,30,33,34,35,36,37,47,53,55,56,57,62,63,66,70,71,72,73,74,75,76,77,80,81,84,85,88,99) then r1.qty END) as LOH_inv,
+sum(CASE WHEN store_no=97 then r1.qty END) as Salle_Inv
+Put it together:
+SELECT 
+r0.alu as `RPRO Item Code`,
+r0.description1 as `RPRO Model`,
+r0.attr as `RPRO Frame Color Code`,
+sum(CASE WHEN store_no=0 then r1.qty END) as NYW_Inventory,
+sum(CASE WHEN store_no in(3,15,21,29,30,33,34,35,36,37,47,53,55,56,57,62,63,66,70,71,72,73,74,75,76,77,80,81,84,85,88,99) then r1.qty END) as LOH_inventory,
+sum(CASE WHEN store_no=97 then r1.qty END) as Salle_Inventory
+
+FROM 
+rpro_reporting.inventory as r0
+RIGHT JOIN rpro_reporting.invn_sbs_qty as r1 ON r0.item_sid = r1.item_sid
+WHERE r0.VEND_CODE ='JMM'
+GROUP BY r1.item_sid
+ORDER BY nyw_inventory desc, LOH_inventory desc, Salle_inventory desc
+;
+ 
+Tadaa...super simple yet powerful right? In my SQL journey, I am trying to use simple codes to do complicated things, that way, I can save some machine power. Another thing, alias and comment your code is a way to organize your work and help yourself and your team to pick up the work. 
