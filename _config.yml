@@ -1,5 +1,5 @@
 title: Thy Bui # your name (or website title) here
-logo: "/20221008_140413.jpg?raw=true" # your photo (or logo) here
+logo: <img src="/20221008_140413.jpg?raw=true" alt="Logo" /> # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data Engineer/Analytics Engineer 
   <br><br>
