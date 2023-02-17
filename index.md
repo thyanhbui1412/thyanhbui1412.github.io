@@ -5,6 +5,7 @@
 ### ETL - Data Pipelines
 
 [How fast are NYC firefighters?](/FireDispatch)
+#### *Tools & Knowledge: Python, SQL, Google Cloud, dbt, Tableau, API* ####
 <img src="ezgif.com-video-to-gif.gif"/>
 
 I automated workflow to extract data from NYC Fire dispatch, clean and visualize with ELK Stack.
@@ -14,7 +15,7 @@ Turned out crazy traffic in Manhattan doesn't stop it from being the 2nd quickes
 
 ---
 [Quiet and safe neighborhood in NYC: possible or not?](/Noise-Crime)
-
+#### *Tools & Knowledge: AWS (EC2, Elasticsearch, OpenSearch, OpenSearch Dashboards), NoSQL, Docker, API, Linux Shell* ####
 <img src="/DimensionalModel.png?raw=true"/>
 <img src="/dag.png?raw=true"/>
 
