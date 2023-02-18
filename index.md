@@ -4,8 +4,9 @@
 
 ### ETL - Data Pipelines
 
-[How fast are NYC firefighters?](/FireDispatch)
-#### *Tools & Knowledge: Python, SQL, Google Cloud, dbt, Tableau, API* ####
+[How fast are NYC firefighters?](https://github.com/thyanhbui1412/FireDispatch)
+#### *Tools & Knowledge: AWS (EC2, Elasticsearch, OpenSearch, OpenSearch Dashboards), NoSQL, Docker, API, Linux Shell* ####
+
 <img src="ezgif.com-video-to-gif.gif"/>
 
 I automated workflow to extract data from NYC Fire dispatch, clean and visualize with ELK Stack.
@@ -14,8 +15,8 @@ Turned out crazy traffic in Manhattan doesn't stop it from being the 2nd quickes
 *This project streams data directly into OpenSearch cluster provisioned via AWS and analyzez NYC fire alarms between 2012 and 2021. This project is applied with the knowledge of principles of containerization, terminal navigation, python scripting, artifact deployment and AWS EC2 provisioning.*
 
 ---
-[Quiet and safe neighborhood in NYC: possible or not?](/Noise-Crime)
-#### *Tools & Knowledge: AWS (EC2, Elasticsearch, OpenSearch, OpenSearch Dashboards), NoSQL, Docker, API, Linux Shell* ####
+[Quiet and safe neighborhood in NYC: possible or not?](https://github.com/thyanhbui1412/Noise-Crime)
+#### *Tools & Knowledge: Python, SQL, Google Cloud, dbt, Tableau, API* ####
 <img src="/DimensionalModel.png?raw=true"/>
 <img src="/dag.png?raw=true"/>
 
@@ -23,22 +24,24 @@ This is a team project when I took the class Data Warehouse at Baruch College, w
 
 I learn to build a mini ETL where I streamlined NYC open data with Socrata API to target data warehouse GCP, then streamed from GCP to Jupiter Notebook for data profiling, then used dbt built data marts, fact tables in GCP.
 
-I developed [Python script](/Noise-Crime/DWProject-ExtractingNoiseData.py) to stream real-time data. I also took main part in performing ETL logic, workflows and data transformation with dbt, which was documented [here](https://github.com/thyanhbui1412/Noise-Crime/blob/src/ETL%20project%20-%20311%20NYC%20Open%20Data%20Source.pdf). Working in a team, I learned to maintain well-documented codes and process. If time permitted, I want to build Python scripts to backfill archive data and upcoming data, schedule a production run in dbt so that the ETL process is continously streamed and transformed.
+I developed [Python script](https://github.com/thyanhbui1412/Noise-Crime/DWProject-ExtractingNoiseData.py) to stream real-time data. I also took main part in performing ETL logic, workflows and data transformation with dbt, which was documented [here](https://github.com/thyanhbui1412/Noise-Crime/blob/src/ETL%20project%20-%20311%20NYC%20Open%20Data%20Source.pdf). Working in a team, I learned to maintain well-documented codes and process. If time permitted, I want to build Python scripts to backfill archive data and upcoming data, schedule a production run in dbt so that the ETL process is continously streamed and transformed.
 
 
 ---
-[Project 3 Title](http://example.com/)
+[In the making](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+## Mini project
+### Big Data Technology
 
-### Category Name 2
+- [Movie Reccomdation System/Movie Analysis](https://github.com/thyanhbui1412/FirstTimeWithNoSQL/blob/src/Project2_Analysis.pdf.pdf)
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+Store IMDB data in S3 bucket. Data manipulation and analysis using PySpark. Recommendation system is based on popularity. 
+- [SQL-Employee ranking system](https://github.com/thyanhbui1412/SQLDataManipulation/blob/src/Who%20is%20the%20best%20sale%20manager%20Real-Time%20Analysis%20and%20Visualization%20with%20BigQuery%20SQL.pdf)
+
+Create tables from GCP public data. Rank employee using weighted criteria models.
+
 
 ---
 
