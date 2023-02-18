@@ -38,6 +38,7 @@ I developed [Python script](https://github.com/thyanhbui1412/Noise-Crime/DWProje
 - [Movie Reccomdation System/Movie Analysis](https://github.com/thyanhbui1412/FirstTimeWithNoSQL/blob/src/Project2_Analysis.pdf.pdf)
 
 Store IMDB data in S3 bucket. Data manipulation and analysis using PySpark. Recommendation system is based on popularity. 
+### SQL
 - [SQL-Employee ranking system](https://github.com/thyanhbui1412/SQLDataManipulation/blob/src/Who%20is%20the%20best%20sale%20manager%20Real-Time%20Analysis%20and%20Visualization%20with%20BigQuery%20SQL.pdf)
 
 Create tables from GCP public data. Rank employee using weighted criteria models.
