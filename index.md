@@ -15,6 +15,17 @@ Turned out crazy traffic in Manhattan doesn't stop it from being the 2nd quickes
 *This project streams data directly into OpenSearch cluster provisioned via AWS and analyzez NYC fire alarms between 2012 and 2021. This project is applied with the knowledge of principles of containerization, terminal navigation, python scripting, artifact deployment and AWS EC2 provisioning.*
 
 ---
+
+### SQL - Building data pipelines
+
+[SQL scripts view here](https://github.com/thyanhbui1412/DataPipelinesPracticeSQL)
+#### *Knowledge: Star Schema, Slow Changing Dimension, Data Quality, KPI, Experimentation, Data Visualization* ####
+Dashboard for Executives
+Dashboard for EDA
+The repo compiles SQL scripts for pipelines I built for dimensional modellings, fact table, cumulative table, SCD, backfill, dedups, datelist data structure, OLAP cubes/advanced analytics using grouping sets, windows-based analytics, state changing.
+
+for dimensional modellings, fact table, cumulative table, SCD, backfill, dedups, datelist, 
+---
 [Quiet and safe neighborhood in NYC: possible or not?](https://github.com/thyanhbui1412/Noise-Crime)
 #### *Tools & Knowledge: Python, SQL, Google Cloud, dbt, Tableau, API* ####
 <img src="/DimensionalModel.png?raw=true"/>
