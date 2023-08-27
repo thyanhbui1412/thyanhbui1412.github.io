@@ -21,10 +21,11 @@ Turned out crazy traffic in Manhattan doesn't stop it from being the 2nd quickes
 [SQL scripts view here](https://github.com/thyanhbui1412/DataPipelinesPracticeSQL)
 #### *Knowledge: Star Schema, Slow Changing Dimension, Data Quality, KPI, Experimentation, Data Visualization* ####
 Dashboard for Executives
+<img src="/ExecutiveDashboards.png?raw=true"/>
 Dashboard for EDA
+<img src="/EDAViz.png?raw=true"/>
 The repo compiles SQL scripts for pipelines I built for dimensional modellings, fact table, cumulative table, SCD, backfill, dedups, datelist data structure, OLAP cubes/advanced analytics using grouping sets, windows-based analytics, state changing.
 
-for dimensional modellings, fact table, cumulative table, SCD, backfill, dedups, datelist, 
 ---
 [Quiet and safe neighborhood in NYC: possible or not?](https://github.com/thyanhbui1412/Noise-Crime)
 #### *Tools & Knowledge: Python, SQL, Google Cloud, dbt, Tableau, API* ####
