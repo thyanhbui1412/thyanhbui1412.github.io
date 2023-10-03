@@ -22,7 +22,7 @@ What I learned and reviewed:
 
 <img src="/ExecutiveDashboards.png?raw=true"/>
 
-[Dashboard for EDA:](https://public.tableau.com/views/ZachWilsonBootcamp-EDA/ZachWilsonBootcamp-EDA?:language=en-US&:display_count=n&:origin=viz_share_link)
+[Dashboard for EDA](https://public.tableau.com/views/ZachWilsonBootcamp-EDA/ZachWilsonBootcamp-EDA?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 <img src="/EDAViz.png?raw=true"/>
 
