@@ -2,6 +2,32 @@
 
 ---
 
+
+### Data Modelling & Advanced SQL for Analytics 
+
+[SQL scripts view here](https://github.com/thyanhbui1412/DataPipelinesPracticeSQL)
+#### *Knowledge: Star Schema, Slow Changing Dimension, Data Quality, KPI, Experimentation, Data Visualization* ####
+
+The repo compiles SQL scripts for pipelines I built for dimensional modellings, fact table, cumulative table, SCD, backfill, dedups, datelist data structure, OLAP cubes/advanced analytics using grouping sets, windows-based analytics, state changing.
+What I learned and reviewed: 
+- Fact and Dimensional Modeling with Slowly Changing Dimensions (SCD)
+- Data Quality Practices and Data Spec Pipelines
+- Streaming Pipelines with Flink
+- Advanced SQL Techniques for Analytics such as Growth Accounting, Funnel Analytics, and Survivorship Analysis.
+- Experimentation (A/B Testing) with Statsig and defining KPI
+- High-Performance Data Visualization
+
+
+[Dashboard for Executives](https://public.tableau.com/views/ZachWilsonBootcamp-ExecView/Bootcamp-Execview?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+<img src="/ExecutiveDashboards.png?raw=true"/>
+
+[Dashboard for EDA:](https://public.tableau.com/views/ZachWilsonBootcamp-EDA/ZachWilsonBootcamp-EDA?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+<img src="/EDAViz.png?raw=true"/>
+
+---
+
 ### ETL - Data Pipelines
 
 [How fast are NYC firefighters?](https://github.com/thyanhbui1412/FireDispatch)
@@ -13,23 +39,6 @@ I automated workflow to extract data from NYC Fire dispatch, clean and visualize
 Turned out crazy traffic in Manhattan doesn't stop it from being the 2nd quickest borough to response to fire alarm!
 
 *This project streams data directly into OpenSearch cluster provisioned via AWS and analyzez NYC fire alarms between 2012 and 2021. This project is applied with the knowledge of principles of containerization, terminal navigation, python scripting, artifact deployment and AWS EC2 provisioning.*
-
----
-
-### SQL - Building data pipelines
-
-[SQL scripts view here](https://github.com/thyanhbui1412/DataPipelinesPracticeSQL)
-#### *Knowledge: Star Schema, Slow Changing Dimension, Data Quality, KPI, Experimentation, Data Visualization* ####
-
-The repo compiles SQL scripts for pipelines I built for dimensional modellings, fact table, cumulative table, SCD, backfill, dedups, datelist data structure, OLAP cubes/advanced analytics using grouping sets, windows-based analytics, state changing.
-
-Dashboard for Executives
-
-<img src="/ExecutiveDashboards.png?raw=true"/>
-
-Dashboard for EDA
-
-<img src="/EDAViz.png?raw=true"/>
 
 ---
 [Quiet and safe neighborhood in NYC: possible or not?](https://github.com/thyanhbui1412/Noise-Crime)
@@ -45,8 +54,13 @@ I developed [Python script](https://github.com/thyanhbui1412/Noise-Crime/DWProje
 
 
 ---
-[In the making](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Rhythmic Insights: Banding Sleep, Stress and Music- WIP](http://example.com/)
+#### *Tools & Knowledge: AWS S3, Snowflake, dbt, API, SQL, Python, Linux Shell, parquet* ####
+
+Besides my big passion for data, I also love wellness, swimming and music. I combined my interests and created data pipelines where I can derive insights about my stress and sleep index correlating to swimming and music variations. 
+
+I extracted personal sleep, stress, RHR data from Garmin API, music data from Spotify streaming history, then I stored large datasets in parquet and push them to S3. I developed ETL, designed OLAP data warehouse with Snowflake, and built data QA processes with dbt connected to Snowflake. 
+
 
 ---
 ## Mini project
